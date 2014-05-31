@@ -21,7 +21,7 @@ public class Main {
 		//n = 25;
 		int maxNumber = Integer.MAX_VALUE;
 		printNumbers(maxNumber, n);//Generate new numbers and store them in 'numbers.txt'.
-		//Comment previous line, if u want to don't want to change numbers on every launch.
+		//Comment previous line, if you don't want to change numbers on every launch.
 		int[] array;
 		try {
 			array = readNumbers(n);
